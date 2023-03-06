@@ -1,1 +1,1 @@
-# gif-seacher
+# Gif-seacher Project created with React
