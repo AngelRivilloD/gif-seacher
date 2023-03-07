@@ -14,7 +14,7 @@ export const GifSearcherApp = () => {
 
     return (
         <>
-            <h1>Gif seacher</h1>
+            <h1>Gif Searcher:</h1>
 
             <AddCategory
                 onNewCategory={onAddCategory}
