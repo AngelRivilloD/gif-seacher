@@ -1,1 +1,3 @@
-# Gif-seacher Project created with React
+# Gif-seacher 
+
+# My first React project
